@@ -76,4 +76,6 @@ Errors: `{ "error", "detail" }` with `400` validation/SSRF, `404` missing item, 
 
 **Production.** Queue ingest, Postgres + pgvector, better HTML extraction, auth, rate limits, retrieval eval, request tracing. Keep the same API shape.
 
+<img width="1906" height="904" alt="{FACEB1EE-AEE3-4AE9-B3C4-6BF4D618F7B9}" src="https://github.com/user-attachments/assets/ad8b4a0f-1f93-44cd-9a75-94e1651a55f2" />
+
 <img width="1905" height="908" alt="{8F9EAA92-E4C2-4913-A7B5-40E081AF3E1E}" src="https://github.com/user-attachments/assets/955d19e0-7e60-4c33-8ee4-de8aec70f485" />
