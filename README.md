@@ -2,7 +2,7 @@
 
 Single-user web app: save notes and URLs, then ask questions over them with a small RAG pipeline.
 
-- **LLM:** Groq (`openai/gpt-oss-20b` — Groq retired `llama-3.1-8b-instant` on 16 Aug 2026)
+- **LLM:** Groq (`openai/gpt-oss-20b`)
 - **Embeddings:** local `all-MiniLM-L6-v2`
 - **Items store:** SQLite
 - **Vectors:** Chroma persisted under `backend/chroma_data`
