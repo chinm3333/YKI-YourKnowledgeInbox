@@ -75,3 +75,6 @@ Errors: `{ "error", "detail" }` with `400` validation/SSRF, `404` missing item, 
 **What breaks first.** Sync URL fetch on the request thread, in-process MiniLM, local Chroma (one process, folder persistence), no hybrid keyword search, Llama context if `top_k` is too high.
 
 **Production.** Queue ingest, Postgres + pgvector, better HTML extraction, auth, rate limits, retrieval eval, request tracing. Keep the same API shape.
+
+<img width="1902" height="912" alt="{BCC28CA1-5CBA-44A4-9F38-15FA8756417A}" src="https://github.com/user-attachments/assets/4b435159-5639-4edf-95f6-c49313325054" />
+
